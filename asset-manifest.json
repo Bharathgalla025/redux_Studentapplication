@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/redux_Studentapplication/static/css/main.d2a76e22.chunk.css",
+    "main.js": "/redux_Studentapplication/static/js/main.3f5cc968.chunk.js",
+    "main.js.map": "/redux_Studentapplication/static/js/main.3f5cc968.chunk.js.map",
+    "runtime-main.js": "/redux_Studentapplication/static/js/runtime-main.2922345d.js",
+    "runtime-main.js.map": "/redux_Studentapplication/static/js/runtime-main.2922345d.js.map",
+    "static/js/2.e0c60cd3.chunk.js": "/redux_Studentapplication/static/js/2.e0c60cd3.chunk.js",
+    "static/js/2.e0c60cd3.chunk.js.map": "/redux_Studentapplication/static/js/2.e0c60cd3.chunk.js.map",
+    "static/js/3.f17c58c6.chunk.js": "/redux_Studentapplication/static/js/3.f17c58c6.chunk.js",
+    "static/js/3.f17c58c6.chunk.js.map": "/redux_Studentapplication/static/js/3.f17c58c6.chunk.js.map",
+    "index.html": "/redux_Studentapplication/index.html",
+    "static/css/main.d2a76e22.chunk.css.map": "/redux_Studentapplication/static/css/main.d2a76e22.chunk.css.map",
+    "static/js/2.e0c60cd3.chunk.js.LICENSE.txt": "/redux_Studentapplication/static/js/2.e0c60cd3.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/redux_Studentapplication/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2922345d.js",
+    "static/js/2.e0c60cd3.chunk.js",
+    "static/css/main.d2a76e22.chunk.css",
+    "static/js/main.3f5cc968.chunk.js"
+  ]
+}
