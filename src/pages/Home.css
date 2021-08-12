@@ -1,0 +1,13 @@
+.backgroundstyles{
+    background-color: gray !important;
+    height: 850px;
+}
+.addstudentstyles{
+    margin-top: 10%;
+    margin-right: 30% !important;
+    margin-left: 30% !important;
+    padding: 30px;
+    line-height: 15px;
+    background-color: lightblue;
+    border-radius: 5px;
+}

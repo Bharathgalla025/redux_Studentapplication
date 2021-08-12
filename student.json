@@ -1,0 +1,39 @@
+{
+  "student": [
+    {
+      "name": "Bharath",
+      "address": "2nd class",
+      "dob": "22-22-2222",
+      "joiningdate": "33-33-3333",
+      "id": 1
+    },
+    {
+      "name": "kumar",
+      "address": "4nd class",
+      "dob": "2221-22-2222",
+      "joiningdate": "1133-33-",
+      "id": 2
+    },
+    {
+      "name": "hello",
+      "address": "hai ",
+      "dob": "how r u",
+      "joiningdate": "fine",
+      "id": 7
+    },
+    {
+      "name": "Goods",
+      "address": "nices",
+      "dob": "supers",
+      "joiningdate": "excellents",
+      "id": 8
+    },
+    {
+      "name": "as",
+      "address": "asa",
+      "dob": "asa",
+      "joiningdate": "as",
+      "id": 9
+    }
+  ]
+}
